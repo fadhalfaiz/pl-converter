@@ -1,0 +1,7 @@
+services:
+  pl_converter:
+    build: .
+    image: pl-converter:local
+    init: true
+    ports:
+      - "127.0.0.1:8501:8501"

@@ -59,4 +59,3 @@ pytest -q
 ```
 
 Contoh GL ada di `examples/GL Aviasi Pulau Layang.xlsx`. Uji integrasi memeriksa enam angka penerimaan utama untuk tahun 2026, semua akun GL, rumus, format template, dan perubahan preview setelah koreksi F/G.
-
